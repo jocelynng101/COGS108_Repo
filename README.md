@@ -1,1 +1,1 @@
-#Welcome to Jocelyn's COGS108 projects
+Welcome to Jocelyn's COGS108 projects
