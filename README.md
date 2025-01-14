@@ -1,2 +1,1 @@
-# COGS108_Repo
- 
+#Welcome to Jocelyn's COGS108 projects
